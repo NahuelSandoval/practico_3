@@ -1,0 +1,18 @@
+h2{
+    color: rgb(255, 238, 0);
+}
+.tit_azul{
+    background-color: blue;
+}
+.tit_verde{
+    background-color: green;
+}
+.tit_negro{
+    background-color: black;
+}
+#pie{
+    background-color: yellowgreen;
+}
+.texto {
+    color: red;
+}
