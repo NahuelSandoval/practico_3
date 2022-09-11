@@ -7,6 +7,8 @@ ul{
     margin: 1rem;
     list-style: square;
     text-align: center;
+    font-family:  'Roboto', sans-serif;
+    font-weight: 600;
 }
 li{
     display: inline-block;
@@ -18,7 +20,6 @@ a{
 }
 .principal{
     background-color: aqua;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 h2{
     color: rgb(255, 238, 0);
@@ -37,7 +38,8 @@ h2{
 }
 .texto {
     color: red;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 1,900;
 }
 body{
     background-image: url(./Celu/IMG_3234.JPG) ;
